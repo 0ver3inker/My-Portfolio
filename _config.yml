@@ -14,7 +14,7 @@ baseurl: "/My-Portfolio"
 username: Mohit Yadav
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Pentration Testor
 # email: Your E-Mail address for the email button.
 email: Itsmohityadav999@gmail.com
 # For every social button you want to display, set your username or userid
@@ -86,7 +86,7 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: 0ver3inker/My-Portfolio
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
