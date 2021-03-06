@@ -21,12 +21,9 @@
     - tag: SNORT
     - tag: NIDS
 
-- name: project Y
-  descr: ""
-  demo: 
+- name: Advance Keylogger Written in Python
+  descr: "An  advance keylogger which records all keywords and then sends the collected information through email."
   tags:
     - tag: 
     - tag: 
 
-- name: project Z
-  descr: ""
