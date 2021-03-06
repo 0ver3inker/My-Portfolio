@@ -17,10 +17,10 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Poornima University
+  title-url: Poornima.edu.in
+  date: Aug 2019 - Present
+  subtitle: B.C.A in Mobile Application and Information Security
   tags:
     - tag: React
     - tag: Javascript
