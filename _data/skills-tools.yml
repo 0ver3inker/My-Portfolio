@@ -6,19 +6,19 @@
 #   weight: 5
 
 - name: Git
-  weight: 5
+  weight: 2
 
 - name: Bash
-  weight: 3
+  weight: 2
 
 - name: BurpSuite
-  weight: 3
+  weight: 2
 
 - name: Zap Proxy
-  weight: 1
+  weight: 2
 
 - name: Nmap
-  weight: 1
+  weight: 2
 
 - name: WireShark
   weight: 2
@@ -27,10 +27,10 @@
   weight: 2
 
 - name: MetaSploit
-  weight: 4
+  weight: 2
 
 - name: Amitage
-  weight: 3
+  weight: 2
 
 - name: Masscan
-  weight: 4
+  weight: 2
