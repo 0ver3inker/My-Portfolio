@@ -11,26 +11,26 @@
 - name: Bash
   weight: 3
 
-- name: Scrum
+- name: BurpSuite
   weight: 3
 
-- name: Travis CI
+- name: Zap Proxy
   weight: 1
 
-- name: Jenkins
+- name: Nmap
   weight: 1
 
-- name: Chrome DevTools
+- name: WireShark
   weight: 2
 
 - name: npm
   weight: 2
 
-- name: gulp
+- name: MetaSploit
   weight: 4
 
-- name: VS Code
+- name: Amitage
   weight: 3
 
-- name: Postman
+- name: Masscan
   weight: 4
