@@ -5,10 +5,10 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Metasploit
   weight: 5
 
-- name: AngularJS
+- name: 
   weight: 3
 
 - name: React
