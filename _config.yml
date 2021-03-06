@@ -14,7 +14,7 @@ baseurl: "/My-Portfolio"
 username: Mohit Yadav
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Pentration Testor
+typing_text: Pentration Tester
 # email: Your E-Mail address for the email button.
 email: itsmohityadav999@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,8 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
-
+about_me_description: Pentration Testor with 1.5 years of experience in various domains such as Web Application security testing, Vulnerability Assessment, penetrationtesting and generating reports.Proficient in Linux operating system configuration, utilities and programming. Super nerd who loves Vim, Linux andUnix and enjoys to customize all of the development environment. Interested in devising a better problem‑solving method for challenging tasks,and learning new technologies and tools if the need arises.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
