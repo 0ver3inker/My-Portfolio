@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Pentration Testor with 1.5 years of experience in various domains such as Web Application security testing, Vulnerability Assessment, PenetrationTesting and generating reports. Proficient in Linux operating system configuration, utilities and programming. Super nerd who loves Vim, Linux and Unix and enjoys to customize all of the development environment. Interested in devising a better problem‑solving method for challenging tasks,and learning new technologies and tools if the need arises.
+about_me_description: Pentration-Testor with 1.5 years of experience in various domains such as Web-Application security testing, Vulnerability-assessment, Penetration-Testing and generating reports. Proficient in linux operating system configuration, utilities and programming. Super nerd who loves vim, linux and unix and enjoys to customize all of the development environment. Interested in devising a better problem‑solving method for challenging tasks and learning new technologies and tools if the need arises.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
