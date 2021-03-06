@@ -22,7 +22,7 @@
     - tag: NIDS
 
 - name: Advance Keylogger Written in Python
-  descr: "An  advance keylogger which records all keywords and then sends the collected information through email."
+  descr: "An advance keylogger which records all keywords and then sends the collected information through email."
   tags:
     - tag: Python
     - tag: 
